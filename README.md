@@ -1,3 +1,6 @@
+A web application for detecting whether a person is wearing a face mask using a webcam or uploaded image. This project is designed to help promote safety by providing real-time mask detection.
+
+
 ---
 title: Mask And No Mask
 emoji: 😷
@@ -9,7 +12,6 @@ pinned: false
 license: mit
 ---
 
-A web application for detecting whether a person is wearing a face mask using a webcam or uploaded image. This project is designed to help promote safety by providing real-time mask detection.
 
 ## How It Works
 1. The user opens the web application in their browser.
