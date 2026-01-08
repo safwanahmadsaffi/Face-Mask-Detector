@@ -2,14 +2,8 @@ A web application for detecting whether a person is wearing a face mask using a 
 
 
 ---
-title: Mask And No Mask
-emoji: 😷
-colorFrom: pink
-colorTo: pink
-sdk: gradio
-app_file: app.py
-pinned: false
-license: mit
+![Live Demo](https://raw.githubusercontent.com/safwanahmadsaffi/Face-Mask-Detector/main/live-dmo.jpg)
+
 ---
 
 
